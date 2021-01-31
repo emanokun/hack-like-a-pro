@@ -1,4 +1,4 @@
-- [Hack like a Pro](#hack-like-a-pro)
+# [Hack like a Pro](#hack-like-a-pro)
   - [Awesome Hacking Repo](#awesome-hacking-repo)
   - [Hacker Cheatsheets](#hacker-cheatsheets)
   - [Tips and Tricks](#tips-and-tricks)
